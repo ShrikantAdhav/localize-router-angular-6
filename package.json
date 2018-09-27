@@ -1,0 +1,30 @@
+{
+  "name": "@gilsdav/ngx-translate-router",
+  "version": "1.0.1",
+  "homepage": "https://github.com/gilsdav/ngx-translate-router#readme",
+  "license": "MIT",
+  "author": {
+    "name": "David Gilson",
+    "email": "davgilson@live.fr",
+    "url": "https://github.com/gilsdav"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/router": "^6.0.0-rc.0 || ^6.0.0",
+    "@ngx-translate/core": "^10.0.0"
+  },
+  "main": "bundles/gilsdav-ngx-translate-router.umd.js",
+  "module": "fesm5/gilsdav-ngx-translate-router.js",
+  "es2015": "fesm2015/gilsdav-ngx-translate-router.js",
+  "esm5": "esm5/gilsdav-ngx-translate-router.js",
+  "esm2015": "esm2015/gilsdav-ngx-translate-router.js",
+  "fesm5": "fesm5/gilsdav-ngx-translate-router.js",
+  "fesm2015": "fesm2015/gilsdav-ngx-translate-router.js",
+  "typings": "gilsdav-ngx-translate-router.d.ts",
+  "metadata": "gilsdav-ngx-translate-router.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
